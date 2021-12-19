@@ -1,0 +1,4 @@
+
+
+se supone que los paquetes solo contendran 2 servicios a elegir
+
