@@ -36,6 +36,8 @@
         <button type="sumbit"> enviar</button>
         
         </form>
+        <br></br>
+        <button type="sumbit"> <a href="Sistema.jsp">Volver a Sistema</a> </button>
         <% } %>
     </body>
 </html>
