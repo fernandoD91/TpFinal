@@ -22,6 +22,7 @@
 
         <h1>Ingresaste Correctamente al sistema de ventas!</h1>
         
+         <button type="sumbit"> <a href="Login.jsp">Ir a Loginr</a> </button>
          <button type="sumbit"> <a href="VentaServicioTuristico.jsp">Nueva Venta: Servicio Turistico</a> </button>
          <button type="sumbit"> <a href="VentaDePaquete.jsp">Nueva Venta: Paquete</a> </button>
          <button type="sumbit"> <a href="ListaDeServiciosVendidos.jsp">Lista De Servicios Turisticos Vendidos</a> </button>
